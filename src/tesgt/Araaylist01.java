@@ -13,6 +13,8 @@ public class Araaylist01 {
 		b.add(31);
 		b.add(33);
 		b.add(37);
+		b.add(33);
+		b.add(37);
 		System.out.println(b.remove(0));
 		System.out.println(b.contains(23));
       System.out.println(b.indexOf(27));
