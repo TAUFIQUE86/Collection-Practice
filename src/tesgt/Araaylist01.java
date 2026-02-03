@@ -34,6 +34,7 @@ public class Araaylist01 {
 		a.add(60);
 		a.addAll(b);
 		a.add(2, 27);
+		a.add(54,30);
 		
 //		
 		
